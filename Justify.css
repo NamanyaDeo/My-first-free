@@ -1,0 +1,16 @@
+section {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(4,40px);
+    background-image: url("images/download.jpg");
+    margin: 10px;
+}
+
+div {
+    border: 1px solid gold;
+    background-color: violet;
+    color: blue;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
